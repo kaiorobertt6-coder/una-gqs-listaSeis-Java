@@ -1,39 +1,44 @@
-Projeto Java - Olá, Mundo!
+# Projeto Java - Olá, Mundo!
 
-Descrição
+## Descrição
 
-Este projeto é um exemplo simples desenvolvido em Java. O programa utiliza o método main para executar uma instrução que exibe a mensagem "Olá, mundo!" no console.
+Este projeto é um exemplo simples desenvolvido em Java. O programa utiliza o método `main` para executar uma instrução que exibe a mensagem **"Olá, mundo!"** no console.
 
-Código
+## Código
 
-O arquivo Main.java contém o seguinte código:
+O arquivo `Main.java` contém o seguinte código:
 
+```java
 public class Main {
     public static void main(String[] args) {
         System.out.println("Olá, mundo!");
     }
 }
+```
 
-Como executar
+## Como executar
 
-Tenha o Java (JDK) instalado no computador.
+1. Tenha o Java (JDK) instalado no computador.
+2. Abra o terminal na pasta onde está o arquivo `Main.java`.
+3. Compile o código:
 
-Abra o terminal na pasta onde está o arquivo Main.java.
-
-Compile o código:
-
+```bash
 javac Main.java
+```
 
-Execute o programa:
+4. Execute o programa:
 
+```bash
 java Main
+```
 
-Saída esperada
+## Saída esperada
 
+```text
 Olá, mundo!
+```
 
-Arquivos
+## Arquivos
 
-Main.java — código-fonte do programa.
-
-README.md — documentação do projeto.
+- `Main.java` — código-fonte do programa.
+- `README.md` — documentação do projeto.
