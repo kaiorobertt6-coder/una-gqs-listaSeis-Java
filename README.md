@@ -43,7 +43,7 @@ Olá, mundo!
 - `Main.java` — código-fonte do programa.
 - `README.md` — documentação do projeto.
 
-### Arquivos
+### Autores
 **Kaio Moreira - 32510906**
 
 **Erick Mello - 326211590**
