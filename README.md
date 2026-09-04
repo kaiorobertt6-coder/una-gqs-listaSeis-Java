@@ -1,18 +1,39 @@
-crie um arquivo .java 
+Projeto Java - Olá, Mundo!
 
-Pronto! Criei um arquivo .java básico com um programa "Olá, mundo!".
+Descrição
 
-Baixar o arquivo Main.java 
+Este projeto é um exemplo simples desenvolvido em Java. O programa utiliza o método main para executar uma instrução que exibe a mensagem "Olá, mundo!" no console.
 
-Main.java
 Código
-cria um read do codigo criado
 
-Claro! Criei o README.md documentando o código Java que fizemos, incluindo descrição, código, como executar e saída esperada.
+O arquivo Main.java contém o seguinte código:
 
-Baixar o README.md 
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Olá, mundo!");
+    }
+}
 
-README.md
-Documento
-Você está sem análise de dados por enquanto. Comece um teste grátis do Plus para ter mais ou tente novamente amanhã após 20:00.
-Experimente o Plus gratuitamente
+Como executar
+
+Tenha o Java (JDK) instalado no computador.
+
+Abra o terminal na pasta onde está o arquivo Main.java.
+
+Compile o código:
+
+javac Main.java
+
+Execute o programa:
+
+java Main
+
+Saída esperada
+
+Olá, mundo!
+
+Arquivos
+
+Main.java — código-fonte do programa.
+
+README.md — documentação do projeto.
