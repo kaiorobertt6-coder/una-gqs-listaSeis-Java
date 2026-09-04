@@ -42,3 +42,11 @@ Olá, mundo!
 
 - `Main.java` — código-fonte do programa.
 - `README.md` — documentação do projeto.
+
+**Kaio Moreira - 32510906**
+
+**Erick Mello - 326211590**
+
+**Icaro Ferreira - 325111358**
+
+Projeto desenvolvido como ativi
