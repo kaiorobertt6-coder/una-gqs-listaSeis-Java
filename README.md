@@ -49,5 +49,3 @@ Olá, mundo!
 **Erick Mello - 326211590**
 
 **Icaro Ferreira - 325111358**
-
-Projeto desenvolvido como ativi
